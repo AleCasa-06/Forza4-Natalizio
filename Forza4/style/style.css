@@ -1,0 +1,32 @@
+body{
+    background-image: url("https://media.istockphoto.com/id/1342898885/photo/black-background-with-christmas-decorations-of-fir-branches-and-christmas-balls.jpg?b=1&s=170667a&w=0&k=20&c=NJiQc7cCo0Z5ChG612lhYGKS7-gr6Euh5vL3D41wEKQ=");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#myTable{
+    margin: auto; 
+    font-size: 90px;
+    tab-size: 50px;
+}
+td{
+    border: solid black 2px; 
+    border-radius: 90%;
+    text-align: center;
+    width: 120px;
+    height: 120px;
+    text-align: center;
+    padding-left: 12px;
+    padding-top: 12px;
+    padding-bottom: 12px; 
+    padding-right: 12px;
+     
+}
+#bottone{
+    border: solid black 2px; 
+    
+}
+p{
+    color: red; 
+    background-color: black;
+    width: fit-content;
+}

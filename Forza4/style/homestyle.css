@@ -1,0 +1,31 @@
+body{
+
+background-image: url("http://www.animationsoftware7.com/img/agifs/snow02.gif"); 
+background-color: black;
+background-repeat: no-repeat; 
+background-size: cover;
+
+
+}
+
+h1{
+    
+    text-align: center;
+    color: #2d862d;
+}
+pre{
+    
+    color: red;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+#gioca{
+    margin-top: 15px;    
+}
+
+p{
+    color: red; 
+    font-size: 15px;
+    font-family: sans-serif;
+}
